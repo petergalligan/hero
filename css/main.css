@@ -1,0 +1,55 @@
+body {
+  text-align: center;
+  background-image: url("../img/780505.jpg");
+  background-size: cover;
+}
+
+h1 {
+  color: lightgreen;
+  text-align: center;
+}
+
+h2 {
+  font-size: 20px;
+}
+
+ul {
+  list-style-type: none;
+}
+
+input {
+  display: block;
+  font-size: 18px;
+  padding: 10px 50px;
+  margin: 0 auto;
+  margin-bottom: 10px;
+  text-align: center;
+}
+
+button {
+  font-size: 20px;
+  background-color: lightblue;
+  padding: 15px;
+  border: 1px solid lightblue;
+  border-radius: 5px;
+}
+
+ul {
+  text-align: center;
+  }
+
+li {
+  color: lightgreen;
+}
+
+
+
+
+
+
+
+
+
+
+
+
